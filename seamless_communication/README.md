@@ -9,7 +9,9 @@ There is a [Github's project](https://github.com/facebookresearch/seamless_commu
 ## Methodology
 
 First, I downloaded the [smallest model](https://huggingface.co/facebook/seamless-m4t-unity-small-s2t/resolve/main/unity_on_device_s2t.ptl) on the same folder than my program.
+
 Then, I did a simple program to record audio and use it as an input but it didn't work.
+
 Finally, I tried to download some audios from the Internet and convert it but the result was the same, the program [always returned "- What?"](https://github.com/facebookresearch/seamless_communication/issues/160)
 
 ## Initial Results

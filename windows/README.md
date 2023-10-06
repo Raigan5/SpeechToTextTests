@@ -20,11 +20,11 @@ If you don't see your desired language, you can install it adding a preffered la
 
 ![Install US English](./4-install_us_english.PNG)
 
-Please check the options for installation:
+Then check the options for installation:
 
 ![Configuration](./5-installing_us_english.PNG)
 
-Afterward, you'll be prompted to relog. Be cautious when doing this, as the keyboard language may differ, and you may need to change it to input your credentials.
+Finally, you'll be prompted to relog. Be cautious when doing this, as the keyboard language may differ, and you may need to change it to input your credentials.
 
 ## Methodology
 
